@@ -16,15 +16,15 @@
 * 🐍 **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando **Python**.
 * 🧠 **En constante aprendizaje:** Actualmente explorando las bases del desarrollo web (HTML/CSS/JS) y conceptos de bajo nivel con C++.
 * 🎮 **Gamer empedernido:** Me fascina **Team Fortress 2**, tanto por su jugabilidad como por la estrategia de sus clases.
-* 🎧 **Estilo de trabajo:** Sesiones de código acompañadas de buena música y clips de anime.
+* 🎧 **Estilo de trabajo:** Sesiones de código acompañadas de buena música.
 
 ---
 
 ### 🎮 Mi Lado Gamer & Hobbies
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3MnFmNXpxYjl0ZzR3c2JzeGhhcmM0YXRnM3hhbWJzeDN6eHhhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/b0abMffEPlP3y/giphy.gif" width="45%" alt="TF2 Scout GIF" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx1Z3h4aTZzcWZzcG9zbTZreGFuZmw2eXg0ZnlybnYxaXBnbmhhcyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13B1WmmeWOUM80/giphy.gif" width="45%" alt="Anime Vibe GIF" />
+  <img src="https://media.tenor.com/7123992225275817296/tf2-team-fortress-2.gif" width="45%" alt="TF2 GIF" />
+  <img src="https://media.tenor.com/2645601131105937402/anime-lofi.gif" width="45%" alt="Anime Vibe GIF" />
 </div>
 
 <br>
@@ -79,4 +79,3 @@
 <div align="center">
   <sub>Matoryuska // Perfil de GitHub</sub>
 </div>
-```
