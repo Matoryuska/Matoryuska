@@ -27,7 +27,7 @@ GIFS CULEROS PARA MI PERFIL
 </div>
 <br>
 
-* **Intereses adicionales:** Personalización de sistemas y lógica de programación.
+### **Intereses adicionales:** Personalización de sistemas y lógica de programación.
 
 ---
 
