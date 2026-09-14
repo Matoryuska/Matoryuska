@@ -43,9 +43,9 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Matoryuska?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.limit=8&theme=tokyonight" />
+  <img src="https://github-profile-details-card.vercel.app/api/modules/stats?username=Matoryuska&theme=tokyonight" />
+  <img src="https://github-profile-details-card.vercel.app/api/modules/langs?username=Matoryuska&theme=tokyonight" />
 </div>
-
 ---
 
 ### Actividad
