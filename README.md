@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/7d/a4/6b/7da46ba53c852b464659dab92b07743b.jpg" width="100%" alt="Banner Matoryuska" />
+  <img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" width="100%" alt="Banner Matoryuska" />
 
   <h1>Matoryuska</h1>
   <p>14 años | Programador Autodidacta | Apasionado por la Tecnología</p>
