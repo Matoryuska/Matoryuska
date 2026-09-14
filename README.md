@@ -43,7 +43,11 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matoryuska&theme=tokyo-night&hide_border=true" width="100%" />
+
+  <img src="https://img.shields.io/github/followers/Matoryuska?label=Seguidores&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/Matoryuska?label=Estrellas&style=for-the-badge&color=e0af68&logo=github" />
+  <img src="https://img.shields.io/github/directory-file-count/Matoryuska/Matoryuska?label=Archivos&style=for-the-badge&color=9ecd6f&logo=github" />
+
 </div>
 
 ---
