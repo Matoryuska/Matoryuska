@@ -43,8 +43,7 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-profile-details-card.vercel.app/api/modules/stats?username=Matoryuska&theme=tokyonight" />
-  <img src="https://github-profile-details-card.vercel.app/api/modules/langs?username=Matoryuska&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matoryuska&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 ---
 
