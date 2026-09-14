@@ -23,7 +23,6 @@
 GIFS CULEROS PARA MI PERFIL
 
 <div align="center">
-  <img src="https://media.tenor.com/EeyRHX8vzNQAAAAi/team-fortress-2-dance.gif" width="45%" alt="TF2 Dance" />
   <img src="https://media.tenor.com/epGS5VA0cWUAAAAi/touhou-remilia-scarlet.gif" width="45%" alt="Remilia Scarlet" />
 </div>
 <br>
