@@ -23,7 +23,7 @@
 GIFS CULEROS PARA MI PERFIL
 
 <div align="center">
-  <img src="https://media.tenor.com/epGS5VA0cWUAAAAi/touhou-remilia-scarlet.gif" width="45%" alt="Remilia Scarlet" />
+  <img src="https://media1.tenor.com/m/0KPekr81bRkAAAAC/cafe.gif" width="45%" alt="Cafe" />
 </div>
 <br>
 
