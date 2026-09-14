@@ -1,30 +1,32 @@
 <div align="center">
 
-  <h1>👋 ¡Hola! Soy Matoryuska</h1>
-  <p><b>14 años | Programador Autodidacta | Apasionado por la Tecnología</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=180&section=header&text=Matoryuska&fontSize=50&fontColor=cdd6f4" width="100%" alt="Banner Matoryuska" />
 
-  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF2_Player-Main_Spy%2FPyro-FF8C00?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Web_%26_C++-9370DB?style=for-the-badge" />
+  <h1>Matoryuska</h1>
+  <p>14 años | Programador Autodidacta | Apasionado por la Tecnología</p>
+
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF2_Player-Main_Spy%2FPyro-FF8C00?style=flat-square&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Web_%26_C++-9370DB?style=flat-square" />
 
 </div>
 
 ---
 
-### 🚀 Sobre Mí
+### Sobre Mí
 
-* 🐍 **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando **Python**.
-* 🧠 **En constante aprendizaje:** Actualmente explorando las bases del desarrollo web (HTML/CSS/JS) y conceptos de bajo nivel con C++.
-* 🎮 **Gamer empedernido:** Me fascina **Team Fortress 2**, tanto por su jugabilidad como por la estrategia de sus clases.
-* 🎧 **Estilo de trabajo:** Sesiones de código acompañadas de buena música.
+* **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando Python.
+* **En aprendizaje:** Explorando las bases del desarrollo web (HTML, CSS, JavaScript) y conceptos de bajo nivel con C++.
+* **Gamer:** Jugador de Team Fortress 2, enfocado en el análisis táctico de sus clases.
+* **Estilo de trabajo:** Sesiones continuas de código acompañadas de música.
 
 ---
 
-### 🎮 Mi Lado Gamer & Hobbies
+### Pasatiempos
 
 <div align="center">
-  <img src="https://media.tenor.com/7123992225275817296/tf2-team-fortress-2.gif" width="45%" alt="TF2 GIF" />
-  <img src="https://media.tenor.com/2645601131105937402/anime-lofi.gif" width="45%" alt="Anime Vibe GIF" />
+  <img src="https://i.postimg.cc/85zK23Q3/tf2.gif" width="45%" alt="TF2 GIF" />
+  <img src="https://i.postimg.cc/mD8Cq9Jq/anime.gif" width="45%" alt="Anime GIF" />
 </div>
 
 <br>
@@ -35,7 +37,7 @@
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### Tecnologías y Herramientas
 
 **Lenguaje Primario:**
 `Python` • `Automation Scripts` • `Discord Bots` • `Logic & Algorithms`
@@ -45,7 +47,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <div align="center">
 
@@ -60,7 +62,7 @@
 
 ---
 
-### 🐍 Mi Actividad
+### Actividad
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matoryuska/Matoryuska/output/github-contribution-grid-snake-dark.svg">
@@ -70,11 +72,11 @@
 
 ---
 
-### 📬 ¿Quieres contactarme?
+### Contacto
 
-* 📧 **Correo:** skibidy8391@gmail.com
-* 💬 **Discord:** `sigma._124`
-* 🎮 **Steam:** [Mi Perfil de Steam](https://steamcommunity.com/profiles/76561198684301588/)
+* **Correo:** skibidy8391@gmail.com
+* **Discord:** `sigma._124`
+* **Perfil de Steam:** https://steamcommunity.com/profiles/76561198684301588/
 
 <div align="center">
   <sub>Matoryuska // Perfil de GitHub</sub>
