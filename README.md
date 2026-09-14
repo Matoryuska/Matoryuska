@@ -1,113 +1,82 @@
+<div align="center">
 
-# 📌 Perfil General
+  <h1>👋 ¡Hola! Soy Matoryuska</h1>
+  <p><b>14 años | Programador Autodidacta | Apasionado por la Tecnología</b></p>
 
-Mi nombre es Matoryuska, tengo 14 años y me dedico al desarrollo de software de forma autodidacta. Mi enfoque principal está centrado en el lenguaje Python, utilizándolo para construir scripts de automatización, lógica de programación, herramientas de línea de comandos y lógica de back-end.
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF2_Player-Main_Spy%2FPyro-FF8C00?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Web_%26_C++-9370DB?style=for-the-badge" />
 
-Empecé en la programación por curiosidad sobre cómo funcionaba el software por dentro. Con el tiempo, esa curiosidad se convirtió en una disciplina diaria de aprendizaje. Actualmente me encuentro consolidando los conceptos fundamentales de la informática, explorando cómo se gestiona la memoria en lenguajes de más bajo nivel y aprendiendo las bases del desarrollo web moderno.
-
-```text
-================================================================================
-  [SISTEMA]: Profiler Output v2.4
-  [USUARIO]: Matoryuska
-  [ROL]: Estudiante / Programador Autodidacta
-  [LENGUAJE PRIMARIO]: Python
-  [ENFOQUE]: Lógica, Automatización, Algoritmos
-  [INTERESES SECUNDARIOS]: Team Fortress 2, Desarrollo Web, C++
-================================================================================
-
-```
+</div>
 
 ---
 
-## 💻 Arquitectura y Conocimientos
+### 🚀 Sobre Mí
 
-A continuación se muestra la estructura general de mis conocimientos técnicos, mis metas a mediano plazo y las tecnologías que manejo o estoy aprendiendo activamente:
-
-```python
-class MatoryuskaDev:
-    def __init__(self):
-        self.nombre = "Matoryuska"
-        self.edad = 14
-        self.especialidad_principal = "Python"
-        self.estado_actual = "Ampliando bases de programación y arquitectura de software"
-
-    def habilidades_python(self):
-        return [
-            "Desarrollo de scripts de automatización y procesamiento de archivos",
-            "Manejo de estructuras de datos (listas, diccionarios, tuplas, conjuntos)",
-            "Programación Orientada a Objetos (POO) básica y modularización de código",
-            "Consumo y manejo de APIs REST con librerías como requests",
-            "Creación de bots interactivos para comunidades en Discord",
-            "Lógica de algoritmos y resolución de problemas estructurados"
-        ]
-
-    def aprendizaje_en_progreso(self):
-        return {
-            "Desarrollo Web": ["HTML5", "CSS3", "JavaScript"],
-            "Bajo Nivel": ["C++ (Comprensión de memoria y punteros)"],
-            "Herramientas de Entorno": ["Git", "GitHub", "Terminal Linux/Bash"]
-        }
-
-    def metas_futuras(self):
-        return [
-            "Crear aplicaciones web completas conectando Python en el servidor con JavaScript en el cliente",
-            "Aprender a optimizar algoritmos para mejorar el tiempo de ejecución y uso de memoria",
-            "Contribuir en proyectos de código abierto para aprender buenas prácticas de trabajo en equipo"
-        ]
-
-if __name__ == "__main__":
-    dev = MatoryuskaDev()
-    print(f"Desarrollador: {dev.nombre} | Estado: {dev.estado_actual}")
-
-```
+* 🐍 **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando **Python**.
+* 🧠 **En constante aprendizaje:** Actualmente explorando las bases del desarrollo web (HTML/CSS/JS) y conceptos de bajo nivel con C++.
+* 🎮 **Gamer empedernido:** Me fascina **Team Fortress 2**, tanto por su jugabilidad como por la estrategia de sus clases.
+* 🎧 **Estilo de trabajo:** Sesiones de código acompañadas de buena música y clips de anime.
 
 ---
 
-## 🛠️ Herramientas
+### 🎮 Mi Lado Gamer & Hobbies
 
-**Lenguaje Principal:**
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3MnFmNXpxYjl0ZzR3c2JzeGhhcmM0YXRnM3hhbWJzeDN6eHhhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/b0abMffEPlP3y/giphy.gif" width="45%" alt="TF2 Scout GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx1Z3h4aTZzcWZzcG9zbTZreGFuZmw2eXg0ZnlybnYxaXBnbmhhcyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13B1WmmeWOUM80/giphy.gif" width="45%" alt="Anime Vibe GIF" />
+</div>
 
-* Python
+<br>
 
-**En Proceso de Aprendizaje y Exploración:**
-
-* JavaScript
-* C++
-* HTML5 / CSS3
-* Git / GitHub
-
----
-
-## 🎮 Pasatiempos e Intereses
-
-Fuera del entorno de desarrollo, dedico mi tiempo libre a los videojuegos y la cultura visual contemporánea. Mi videojuego de cabecera es **Team Fortress 2 (TF2)**, en el cual disfruto tanto de la mecánica del juego como del análisis de su diseño técnico.
-
-* **Clases de uso frecuente en TF2:** Spy, Pyro y Engineer. Aprecio la estrategia necesaria para el control de mapa y el apoyo al equipo.
-* **Modos de juego:** Casual, Payload y partidas cooperativas en Mann vs. Machine (MvM).
-* **Otros intereses:** Animación japonesa, investigación de sistemas informáticos y escucha de música mientras realizo sesiones continuas de programación.
+* **Clases principales en TF2:** Spy, Pyro y Engineer.
+* **Modos favoritos:** Casual, Payload y Mann vs. Machine (MvM).
+* **Intereses adicionales:** Animación, personalización de sistemas y lógica de programación.
 
 ---
 
-## 📊 Métricas de GitHub
+### 🛠️ Tecnologías & Herramientas
+
+**Lenguaje Primario:**
+`Python` • `Automation Scripts` • `Discord Bots` • `Logic & Algorithms`
+
+**Explorando Actualmente:**
+`JavaScript` • `C++` • `HTML5 / CSS3` • `Git / GitHub`
 
 ---
 
-## 🐍 Mapa de Contribuciones
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Matoryuska&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matoryuska&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matoryuska&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📬 Contacto y Comunidad
+### 🐍 Mi Actividad
 
-Estoy siempre dispuesto a recibir comentarios sobre mi código, sugerencias para mejorar mi arquitectura de desarrollo o consejos para optimizar mis programas.
-
-* **Correo electrónico:** skibidy8391@gmail.com
-* **Discord:** sigma._124
-* **Perfil de Steam:** https://steamcommunity.com/profiles/76561198684301588/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matoryuska/Matoryuska/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matoryuska/Matoryuska/output/github-contribution-grid-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/Matoryuska/Matoryuska/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-*Matoryuska — Registro de desarrollo público // Perfil actualizado*
+### 📬 ¿Quieres contactarme?
 
-```
+* 📧 **Correo:** skibidy8391@gmail.com
+* 💬 **Discord:** `sigma._124`
+* 🎮 **Steam:** [Mi Perfil de Steam](https://steamcommunity.com/profiles/76561198684301588/)
 
+<div align="center">
+  <sub>Matoryuska // Perfil de GitHub</sub>
+</div>
 ```
