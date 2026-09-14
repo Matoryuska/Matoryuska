@@ -1,8 +1,4 @@
-Veo lo que sucedió en la captura de pantalla: las etiquetas HTML (`<p>`, `<img>`, etc.) se están mostrando como texto plano en lugar de renderizar los gráficos y las imágenes. Esto pasa cuando GitHub interpreta el contenido como un archivo de texto simple o cuando faltan líneas en blanco necesarias alrededor del código HTML.
 
-Aquí tienes el código **completamente limpio y listo** para solucionar ese problema. Copia este bloque único de principio a fin dentro de tu archivo `README.md`:
-
-```markdown
 # 📌 Perfil General
 
 Mi nombre es Matoryuska, tengo 14 años y me dedico al desarrollo de software de forma autodidacta. Mi enfoque principal está centrado en el lenguaje Python, utilizándolo para construir scripts de automatización, lógica de programación, herramientas de línea de comandos y lógica de back-end.
