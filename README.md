@@ -43,14 +43,7 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matoryuska&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matoryuska&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matoryuska&theme=tokyonight&hide_border=true" />
-
+  <img src="https://metrics.lecoq.io/Matoryuska?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.limit=8&theme=tokyonight" />
 </div>
 
 ---
