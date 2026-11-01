@@ -25,7 +25,7 @@
 <div align="right">
   <img src="https://media1.tenor.com/m/oFeuEdJodjMAAAAC/marisa-marisa-kirisame.gif" width="45%" alt="Cafe" />
 </div>
-<div align="right">
+<div align="left">
   <img src="https://media.tenor.com/EeyRHX8vzNQAAAAi/team-fortress-2-dance.gif" width="45%" alt="Cafe" />
 </div>
 
