@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" width="100%" alt="Banner Matoryuska" />
+  <img src="https://i.pinimg.com/736x/e6/ce/61/e6ce617d0065576556059f662eaf671b.jpg" width="100%" alt="Banner Matoryuska" />
 
   <h1>Matoryuska</h1>
-  <p>14 años | Programador Autodidacta | Apasionado por la Tecnología</p>
+  <p>14 años | Programador Autodidacta | Boliviano | Apasionado por la Tecnología</p>
 
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Web_%26_C++-9370DB?style=flat-square" />
@@ -13,16 +13,16 @@
 
 ### Sobre Mí
 
-* **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando Python.
+* **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando Python y haciendo sitios webs basico o aveces moderno.
 * **En aprendizaje:** Explorando las bases del desarrollo web (HTML, CSS, JavaScript) y conceptos de bajo nivel con C++.
 * **Intereses:** Jugador de TF2,musica electronica y amante de los juegos retro.
-* **Estilo de trabajo:** VAriada.
+* **Estilo de trabajo:** Variada.
 
 ---
 <div align="center">
   <img src="https://media1.tenor.com/m/0KPekr81bRkAAAAC/cafe.gif" width="45%" alt="Cafe" />
 </div>
-<div align="center">
+<div align="right">
   <img src="https://media1.tenor.com/m/oFeuEdJodjMAAAAC/marisa-marisa-kirisame.gif" width="45%" alt="Cafe" />
 </div>
 
