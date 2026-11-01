@@ -23,7 +23,7 @@
   <img src="https://media1.tenor.com/m/0KPekr81bRkAAAAC/cafe.gif" width="45%" alt="Cafe" />
 </div>
 <div align="center">
-  <img src="https://media1.tenor.com/m/0KPekr81bRkAAAAC/cafe.gif" width="45%" alt="Cafe" />
+  <img src="https://media1.tenor.com/m/oFeuEdJodjMAAAAC/marisa-marisa-kirisame.gif" width="45%" alt="Cafe" />
 </div>
 
 <br>
