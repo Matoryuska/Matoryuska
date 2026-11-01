@@ -6,7 +6,6 @@
   <p>14 años | Programador Autodidacta | Apasionado por la Tecnología</p>
 
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF2_Player-Main_%2FPyro-FF8C00?style=flat-square&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Web_%26_C++-9370DB?style=flat-square" />
 
 </div>
