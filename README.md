@@ -15,13 +15,17 @@
 
 * **Enfoque principal:** Desarrollo scripts, herramientas de automatización y bots usando Python.
 * **En aprendizaje:** Explorando las bases del desarrollo web (HTML, CSS, JavaScript) y conceptos de bajo nivel con C++.
-* **Intereses:** Jugador de TF2,musica electronica y jugador de half life.
-* **Estilo de trabajo:** Sesiones de tf2.
+* **Intereses:** Jugador de TF2,musica electronica y amante de los juegos retro.
+* **Estilo de trabajo:** VAriada.
 
 ---
 <div align="center">
   <img src="https://media1.tenor.com/m/0KPekr81bRkAAAAC/cafe.gif" width="45%" alt="Cafe" />
 </div>
+<div align="center">
+  <img src="https://media1.tenor.com/m/0KPekr81bRkAAAAC/cafe.gif" width="45%" alt="Cafe" />
+</div>
+
 <br>
 ---
 
@@ -63,8 +67,8 @@
 
 ### Contacto
 
-* **Correo:** skibidy839@gmail.com
-* **Discord:** `sigma._124`
+* **Correo:** matoryuskadev@gmail.com
+* **Discord:*@matoryuskaez* ``
 * **Perfil de Steam:** https://steamcommunity.com/profiles/76561198684301588/
 
 <div align="center">
