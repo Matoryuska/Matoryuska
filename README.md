@@ -66,7 +66,6 @@
 ### Contacto
 
 * **Correo:** matoryuskadev@gmail.com
-* **Discord:*matoryuskaez* ``
 * **Perfil de Steam:** https://steamcommunity.com/profiles/76561198684301588/
 
 <div align="center">
