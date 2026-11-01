@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/e6/ce/61/e6ce617d0065576556059f662eaf671b.jpg" width="100%" alt="Banner Matoryuska" />
+  <img src="https://i.pinimg.com/1200x/58/cf/f7/58cff73b951850f6fbce7d6ec7718adf.jpg" width="100%" alt="Banner Matoryuska" />
 
-  <h1>Matoryuska</h1>
+  <h1>𝓜𝓪𝓽𝓸𝓻𝔂𝓾𝓼𝓴𝓪_𝓓𝓮𝓿</h1>
   <p>14 años | Programador Autodidacta | Boliviano | Apasionado por la Tecnología</p>
 
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
