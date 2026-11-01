@@ -19,20 +19,11 @@
 * **Estilo de trabajo:** Variada.
 
 ---
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media1.tenor.com/m/0KPekr81BrkAAAAC/cafe.gif" width="100%" alt="Cafe" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media1.tenor.com/m/oFeuEdJodjMAAAAC/marisa-marisa-kirisame.gif" width="100%" alt="Marisa" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media1.tenor.com/m/EeyRHX8vzNQAAAAI/team-fortress-2-dance.gif" width="100%" alt="TF2 Dance" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/0KPekr81BrkAAAAC/cafe.gif" width="30%" alt="Cafe" />
+  <img src="https://media1.tenor.com/m/oFeuEdJodjMAAAAC/marisa-marisa-kirisame.gif" width="30%" alt="Marisa" />
+  <img src="https://media1.tenor.com/m/EeyRHX8vzNQAAAAI/team-fortress-2-dance.gif" width="30%" alt="TF2 Dance" />
+</p>
 <br>
 ---
 
